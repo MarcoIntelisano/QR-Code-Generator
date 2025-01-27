@@ -1,5 +1,24 @@
-# QR-Code-Generator
+## QR-Code-Generator
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+    <img src="imgs/qrcode_icon.png" alt="Logo" height="100">
+<h3 align="center">Generate your QR-Code and customize it</h3>
+</div>
+<br/>
+</div>
+
+
+## :wrench: Dependencies and Installation
+
+- Python >= 3.9 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
+
+### :wrench: Requirements
+
+- qrcode >= 8.0
+- pillow
+- PySimpleGUI >= 4.70.1
 
 
 
@@ -27,7 +46,7 @@
 
 
 <!-- Stats -->
-## 🔥   My Stats :
+## 🔥   My Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MarcoIntelisano&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -41,7 +60,7 @@
 
 
 
-# License
+## License
 Copyright (C) 2025 Marco Intelisano
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
