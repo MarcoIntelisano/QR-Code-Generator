@@ -7,6 +7,9 @@
 <h3 align="center">Generate your QR-Code and customize it</h3>
 </div>
 <br/>
+<div align="center">
+    <img src="imgs/qrcode_screenshot.png" alt="Screenshot" height="600">
+</div>
 </div>
 
 
