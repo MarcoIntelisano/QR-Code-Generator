@@ -15,7 +15,7 @@
 
 ## :wrench: Dependencies and Installation
 
-- Python >= 3.9 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
+- Python >= 3.9.21 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
 
 ### :computer: Requirements
 
