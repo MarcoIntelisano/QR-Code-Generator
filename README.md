@@ -12,6 +12,10 @@
 </div>
 </div>
 
+There are two versions: 
+- With a user interface (see the file qrcode_with_logo_UI.py)
+- Simple code (see the file qrcode_with_logo_R01.py)
+
 
 ## :wrench: Dependencies and Installation
 
