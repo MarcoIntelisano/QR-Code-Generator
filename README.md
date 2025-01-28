@@ -12,13 +12,17 @@
 </div>
 </div>
 
+
+
+
+
 There are two versions: 
 - With a user interface (see the file qrcode_with_logo_UI.py)
 - Simple code (see the file qrcode_with_logo_R01.py)
 
 <div align="center">
-
-[![Watch the video](https://raw.githubusercontent.com/MarcoIntelisano/QR-Code-Generator/blob/main/imgs/thumbnail.png)](https://raw.githubusercontent.com/MarcoIntelisano/QR-Code-Generator/blob/main/imgs/QR-Code%20Generator.mp4)
+    
+https://github.com/user-attachments/assets/1266bcbe-933c-4976-83bb-29060cad7e6d
 
 
 </div>
