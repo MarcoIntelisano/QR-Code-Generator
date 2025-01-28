@@ -16,6 +16,9 @@ There are two versions:
 - With a user interface (see the file qrcode_with_logo_UI.py)
 - Simple code (see the file qrcode_with_logo_R01.py)
 
+<div align="center">
+    <img src="imgs/QR-Code Generator.mp4" alt="Video" height="600">
+</div>
 
 ## :wrench: Dependencies and Installation
 
