@@ -17,7 +17,10 @@ There are two versions:
 - Simple code (see the file qrcode_with_logo_R01.py)
 
 <div align="center">
-    <img src="imgs/QR-Code Generator.mp4" alt="Video" height="600">
+
+[![Watch the video](https://raw.githubusercontent.com/MarcoIntelisano/QR-Code-Generator/blob/main/imgs/thumbnail.png)](https://raw.githubusercontent.com/MarcoIntelisano/QR-Code-Generator/blob/main/imgs/QR-Code%20Generator.mp4)
+
+
 </div>
 
 ## :wrench: Dependencies and Installation
