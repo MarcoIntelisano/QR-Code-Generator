@@ -5,7 +5,6 @@ from base64 import b64encode
 from io import BytesIO
 from os import getcwd
 
-# PyInstaller  -F --clean --onefile --windowed --icon=qrcode_icon.ico qrcode_with_logo_UI.py
 
 def hex_to_rgb(hex_color):
     hex_color = hex_color.lstrip('#')
