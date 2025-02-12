@@ -37,6 +37,12 @@ https://github.com/user-attachments/assets/1266bcbe-933c-4976-83bb-29060cad7e6d
 - pillow
 - PySimpleGUI >= 4.70.1
 
+### ⬇️ Download executable file 
+
+Here the link to download *.exe file
+https://drive.google.com/file/d/15mITzzPoBaVK2pbY_8ov03imLk5MihNK/view?usp=sharing
+
+
 
 
 <!-- CONTACT -->
