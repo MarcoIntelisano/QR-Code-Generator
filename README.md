@@ -68,7 +68,7 @@ https://drive.google.com/file/d/15mITzzPoBaVK2pbY_8ov03imLk5MihNK/view?usp=shari
 
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcoIntelisano.MarcoIntelisano&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcoIntelisano.QR-Code-Generator"  />
 </div>
 
 
